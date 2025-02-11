@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\GerenciadorTarefas\\GerenciadorTarefas\\GerenciadorTarefas.csproj",
+      "projectUniqueName": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\GerenciadorTarefas\\GerenciadorTarefas.csproj",
       "projectName": "GerenciadorTarefas",
-      "projectPath": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\GerenciadorTarefas\\GerenciadorTarefas\\GerenciadorTarefas.csproj",
+      "projectPath": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\GerenciadorTarefas\\GerenciadorTarefas.csproj",
       "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\GerenciadorTarefas\\GerenciadorTarefas\\obj\\",
+      "outputPath": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\GerenciadorTarefas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config"

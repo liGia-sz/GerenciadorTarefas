@@ -1,0 +1,15 @@
+c:\Users\Alunos\Documents\LÍGIA (MANHÃ)\GerenciadorTarefas\bin\Debug\net8.0\GerenciadorTarefas.exe
+C:\Users\Alunos\Documents\LÍGIA (MANHÃ)\GerenciadorTarefas\bin\Debug\net8.0\GerenciadorTarefas.deps.json
+C:\Users\Alunos\Documents\LÍGIA (MANHÃ)\GerenciadorTarefas\bin\Debug\net8.0\GerenciadorTarefas.runtimeconfig.json
+c:\Users\Alunos\Documents\LÍGIA (MANHÃ)\GerenciadorTarefas\bin\Debug\net8.0\GerenciadorTarefas.dll
+c:\Users\Alunos\Documents\LÍGIA (MANHÃ)\GerenciadorTarefas\bin\Debug\net8.0\GerenciadorTarefas.pdb
+c:\Users\Alunos\Documents\LÍGIA (MANHÃ)\GerenciadorTarefas\obj\Debug\net8.0\GerenciadorTarefas.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alunos\Documents\LÍGIA (MANHÃ)\GerenciadorTarefas\obj\Debug\net8.0\GerenciadorTarefas.AssemblyInfoInputs.cache
+c:\Users\Alunos\Documents\LÍGIA (MANHÃ)\GerenciadorTarefas\obj\Debug\net8.0\GerenciadorTarefas.AssemblyInfo.cs
+c:\Users\Alunos\Documents\LÍGIA (MANHÃ)\GerenciadorTarefas\obj\Debug\net8.0\GerenciadorTarefas.csproj.CoreCompileInputs.cache
+c:\Users\Alunos\Documents\LÍGIA (MANHÃ)\GerenciadorTarefas\obj\Debug\net8.0\GerenciadorTarefas.sourcelink.json
+c:\Users\Alunos\Documents\LÍGIA (MANHÃ)\GerenciadorTarefas\obj\Debug\net8.0\GerenciadorTarefas.dll
+c:\Users\Alunos\Documents\LÍGIA (MANHÃ)\GerenciadorTarefas\obj\Debug\net8.0\refint\GerenciadorTarefas.dll
+c:\Users\Alunos\Documents\LÍGIA (MANHÃ)\GerenciadorTarefas\obj\Debug\net8.0\GerenciadorTarefas.pdb
+C:\Users\Alunos\Documents\LÍGIA (MANHÃ)\GerenciadorTarefas\obj\Debug\net8.0\GerenciadorTarefas.genruntimeconfig.cache
+C:\Users\Alunos\Documents\LÍGIA (MANHÃ)\GerenciadorTarefas\obj\Debug\net8.0\ref\GerenciadorTarefas.dll

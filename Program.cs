@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Layout; // Chamando o namespace
+using GerenciarTarefa;
+
+
+Formatacao.ImprimirCabecalho("GERENCIADOR DE TAREFAS");
+
+Opcoes.GerenciarOpcoes();
