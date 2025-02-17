@@ -3,7 +3,9 @@
 📌 **Criação de um sistema para gerir tarefas**
 
 Objetivo: Reforçar a lógica de programação , desenvolver habilidades para formatação para posteriormente ser desenvolvido à aplicação web, então realizar testes.
-![image](https://github.com/user-attachments/assets/b0630b99-a2d6-4777-8e5d-2a1d77c5e7c8)
+
+![image](https://github.com/user-attachments/assets/f27b2c8a-3dcb-4ba2-bdb5-06a86c2c5607)
+
 
 
 ## 📌 Funcionalidades
