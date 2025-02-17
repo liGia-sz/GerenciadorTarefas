@@ -6,12 +6,25 @@ Objetivo: Reforçar a lógica de programação , desenvolver habilidades para fo
 
 ![image](https://github.com/user-attachments/assets/f27b2c8a-3dcb-4ba2-bdb5-06a86c2c5607)
 
-
-
 ## 📌 Funcionalidades
-- Adicionar tarefas
-- Listar tarefas adicionadas
-- Marcar tarefas concluídas
-- Remover tarefas
-- Sair do programa
+### 1- Adicionar Tarefas
+
+![image](https://github.com/user-attachments/assets/cb18f5f0-ec98-4e44-a1fc-bbdb65b33318)
+
+### 2- Listar Tarefas Adicionadas
+
+![image](https://github.com/user-attachments/assets/138c728f-f895-4837-8381-9a0f26067ced)
+
+### 3- Marcar Tarefas Concluídas
+
+![image](https://github.com/user-attachments/assets/868bab0f-ff4c-4552-999b-71d95815ec29)
+
+### 4- Remover Tarefas
+
+![image](https://github.com/user-attachments/assets/a4d43b22-0c90-4ce5-b1c7-686f81b3468f)
+
+### 0- Sair do Programa
+
+![image](https://github.com/user-attachments/assets/e1045b50-dc36-4997-b42f-4eb0095a8f9a)
+
 
