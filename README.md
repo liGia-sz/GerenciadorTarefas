@@ -9,16 +9,8 @@ Objetivo: Reforçar a lógica de programação , desenvolver habilidades para fo
 ![PARA README-](https://github.com/user-attachments/assets/132efd50-7d44-4362-a4b9-3229b8f054d8)
 ![PARA README-3](https://github.com/user-attachments/assets/7f0faa49-681d-4310-bee4-db77deedefff)
 ![PARA README-4](https://github.com/user-attachments/assets/5c1d3b63-1258-4443-9f8b-bd367b4d9990)
+![PARA README-4](https://github.com/user-attachments/assets/92394d63-8c26-4f94-9009-86a3ca33ac99)
 
-
-
-### 3- Marcar Tarefas Concluídas
-
-![image](https://github.com/user-attachments/assets/868bab0f-ff4c-4552-999b-71d95815ec29)
-
-### 4- Remover Tarefas
-
-![image](https://github.com/user-attachments/assets/a4d43b22-0c90-4ce5-b1c7-686f81b3468f)
 
 ### 0- Sair do Programa
 
