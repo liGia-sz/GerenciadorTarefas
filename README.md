@@ -8,6 +8,7 @@ Objetivo: Reforçar a lógica de programação , desenvolver habilidades para fo
 ## 📌 Funcionalidades
 ![PARA README-1](https://github.com/user-attachments/assets/49515176-e0a4-40c3-9759-7d908fcaba57)
 ![PARA README-3](https://github.com/user-attachments/assets/e16a0534-d8d9-4e4e-aa8b-24845ff1d1eb)
+![PARA README-4](https://github.com/user-attachments/assets/5bc6ac35-f29f-4c03-beed-661c685e25a5)
 
 
 ### 3- Marcar Tarefas Concluídas
